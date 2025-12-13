@@ -48,5 +48,5 @@ Computer science provides problem-solving skills and technical knowledge that ca
 This course gave me a stronger understanding of linear algebra, transformations, and visual systems, which will be useful in future computer science courses that involve simulations, data visualization, or game development.
 
 ### How do computational graphics and visualizations apply to my future career?
-The skills developed in this project—such as working with 3D environments, organizing complex codebases, and understanding rendering pipelines—are applicable to careers in software development, game design, simulation, and interactive media.
+The skills developed in this project such as working with 3D environments, organizing complex codebases, and understanding rendering pipelines are applicable to careers in software development, game design, simulation, and interactive media.
 
