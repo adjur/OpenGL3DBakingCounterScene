@@ -1,4 +1,4 @@
-# 🧁 CS-330 Final Project – 3D Baking Counter Scene (OpenGL)
+#3D Baking Counter Scene (OpenGL)
 
 ## 📌 Project Overview
 This repository contains my **CS-330 Final Project**, a three-dimensional scene built in **C++ and OpenGL** that recreates a simple baking setup on a kitchen countertop. The project focuses on low-polygon modeling, object placement, lighting, camera navigation, and clean, modular code design.
